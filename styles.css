@@ -99,6 +99,7 @@
     background-color: #403F49;
     position: relative;
     top: -24%;
+    opacity: 0.9;
 }
 .container1b img
 {
@@ -107,7 +108,7 @@
     margin-top: -5%;
     margin-left: 4%;
 }
-}
+
 .container1c
 {
     margin-top: -2%;
