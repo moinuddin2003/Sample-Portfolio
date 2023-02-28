@@ -166,34 +166,6 @@
     display: flex;
     justify-content: center;
 }
-/* .container2b
-{
-    background-color: #272833;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    width: 20%;
-    display: flex;
-    justify-content: center;
-}
-.container2c
-{
-    background-color: #272833;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    width: 20%;
-    display: flex;
-    justify-content: center;
-}
-.container2d
-{
-    background-color: #272833;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    width: 20%;
-    display: flex;
-    justify-content: center;
-} */
-
 /* Now the work of 3rd contianer has been started  */
 
 .container3
@@ -368,37 +340,3 @@ p.num4
     margin-left: 10%;
     color:#F1BA1B;
 }
-/* 
-.container4b
-{
-    width: 25.33%;
-    background-color:#444455;
-    line-height: 1.6;
-}
-.container4b i {
-    margin-left: 10%;
-    margin-top: 6%;
-}
-.container4b h2 {
-    margin-left: 10%;
-}
-.container4b p {
-    margin-left: 10%;
-}
-.container4c
-{
-    width: 25.33%;
-    background-color:#444455;
-    line-height: 1.6;
-    margin-right: 20%; 
-}
-.container4c i {
-    margin-left: 10%;
-    margin-top: 6%;
-}
-.container4c h2 {
-    margin-left: 10%;
-}
-.container4c p {
-    margin-left: 10%;
-}*/
