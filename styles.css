@@ -183,22 +183,19 @@
     width: 50%;
 
 }
-.container3a1{}
 .container3a2{
     margin-top: 2%;
 }
-.container3a3{}
-.container3aa{
+.container3aa,.container3bb{
     display: flex;
     margin-top: 5%;
 }
-.container3a3a num1{
+.num1,.num2,.num3,.num4{
     color: #F1BA1B;
 }
-p.num1
+p.num1,.num2,.num3,.num4
 {
     font-size: xx-large;
-    color:#F1BA1B
 }
 .container3a3b{
     margin-left: 5%;
@@ -206,47 +203,19 @@ p.num1
 .container3a3b num2{
     color: #F1BA1B;
 }
-p.num2
-{
-    font-size: xx-large;
-}
-.num2{
-    color:#F1BA1B
-}
-.container3bb{
-    display: flex;
-    margin-top: 5%;
-}
-.container3a3c{
-}
-.num3{
-    color:#F1BA1B
-}
-p.num3
-{
-    font-size: xx-large;
-}
 .container3a3d{
-    margin-left: 5%;
-}
-.num4{
-    color:#F1BA1B
-}
-p.num4
-{
-    font-size: xx-large;
+    margin-left: 7%;
 }
 .container3b{
     width: 50%;
     margin-top: 5%;
     margin-bottom:2%
 }
-.container3b1{
+.container3b1,.container3b2,.container3b3{
     display: flex;
-    /* justify-content: space-between;  */
     align-items: center;
 }
-.container3b1 h2 {
+.container3b1 h2,.container3b2 h2,.container3b3 h2 {
     margin-top: -2%;
     margin-left: 3%;
 }
@@ -259,19 +228,12 @@ p.num4
     margin-top: 2%;
     color: #F1BA1B;
 }
-.container3b1 hr {
+.container3b1 hr,.container3b2 hr {
     width: 60%;
     margin-top: 20%;
     margin-left: -58%;
 }
-.container3b2{
-    display: flex;
-    align-items: center;
-}
-.container3b2 h2 {
-    margin-top: -2%;
-    margin-left: 3%;
-}
+
 .container3b2 p {
     margin-top: 6%;
     margin-left: -33%;
@@ -281,19 +243,7 @@ p.num4
     margin-top: 5%;
     color: #F1BA1B;
 }
-.container3b2 hr {
-    width: 60%;
-    margin-top: 20%;
-    margin-left: -58%;
-}
-.container3b3{
-    display: flex;
-    align-items: center;
-}
-.container3b3 h2 {
-    margin-top: -2%;
-    margin-left: 3%;
-}
+
 .container3b3 p {
     margin-top: 6%;
     margin-left: -36%;
@@ -304,7 +254,7 @@ p.num4
     color: #F1BA1B;
 }
 .container3b3 hr {
-    width: 62%;
+    width: 60%;
     margin-top: 20%;
     margin-left: -60%;
 }
